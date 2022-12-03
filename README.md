@@ -1,5 +1,7 @@
 # Analizador-Sintactico
-Analizador sintactico
+El programa funciona con archivos, por lo tanto se tiene que escribir el codigo en el archivo llamado Codigo.txt
+
+
 cout<<"Hola mundo!";
 
 int a;
